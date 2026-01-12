@@ -104,8 +104,6 @@ ___
 ###
 <h2>📫 Let's connect</h2>
 
-<h2>📫 Let's connect</h2>
-
 ###
 
 - **Telegram:** <a href="https://t.me/lowkkid" target="_blank" rel="noopener noreferrer">@lowkkid</a>
