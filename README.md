@@ -1,7 +1,9 @@
-<div align="left">
-  <a href="https://www.linkedin.com/in/uladzislau-shykunou/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+<div align="center">
+  
+  
+  <a href="https://lowkkid.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/website-black?style=for-the-badge" height="25" alt="website"/></a>
+<a href="https://www.linkedin.com/in/uladzislau-shykunou/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge" height="25" alt="linkedin"/></a>
+
 </div>
 
 ###
@@ -95,4 +97,23 @@ ___
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-plain-wordmark.svg" height="70" alt="sonarqube logo" />
           
+</div>
+
+___
+
+###
+<h2>📫 Let's connect</h2>
+
+<h2>📫 Let's connect</h2>
+
+###
+
+- **Telegram:** <a href="https://t.me/lowkkid" target="_blank" rel="noopener noreferrer">@lowkkid</a>
+- **Mail:** <a href="mailto:vladislav.shikunov@lowkkid.dev" target="_blank" rel="noopener noreferrer">vladislav.shikunov@lowkkid.dev</a>
+- **Phone/WhatsApp:** <a href="https://wa.me/375336540079" target="_blank" rel="noopener noreferrer">Message on WhatsApp</a>
+
+### 
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lowkkid&style=flat-square&color=blue" alt="Profile views"/>
 </div>
