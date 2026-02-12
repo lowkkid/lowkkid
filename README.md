@@ -2,7 +2,7 @@
   
   
   <a href="https://lowkkid.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/website-black?style=for-the-badge" height="25" alt="website"/></a>
-<a href="https://www.linkedin.com/in/uladzislau-shykunou/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge" height="25" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/vladislav-shikunov/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge" height="25" alt="linkedin"/></a>
 
 </div>
 
